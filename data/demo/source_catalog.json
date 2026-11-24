@@ -1,0 +1,12 @@
+{
+  "notice": "Source discovery only. Demo data is entirely synthetic; no issuer filing is downloaded or republished.",
+  "sources": [
+    {
+      "id": "hkex-title-search",
+      "title": "HKEXnews Title Search",
+      "url": "https://www1.hkexnews.hk/search/titlesearch.xhtml?lang=en",
+      "use": "Locate listed-company annual reports for a future, rights-cleared extension."
+    }
+  ],
+  "reuse_note": "Public availability is not permission to redistribute. Check HKEX and issuer terms before downloading, processing, or packaging actual reports."
+}

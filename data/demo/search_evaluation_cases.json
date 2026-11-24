@@ -1,0 +1,19 @@
+{
+  "cases": [
+    {
+      "id": "2024-revenue-drivers",
+      "query": "What drove revenue growth and fee income?",
+      "relevant_passage_ids": ["2024-revenue-drivers"]
+    },
+    {
+      "id": "2025-deposit-concentration",
+      "query": "How did the deposit mix and largest depositor concentration change?",
+      "relevant_passage_ids": ["2025-deposit-mix"]
+    },
+    {
+      "id": "2025-cyber-recovery",
+      "query": "What cyber incident response and recovery procedures were tested with providers?",
+      "relevant_passage_ids": ["2025-cyber-resilience"]
+    }
+  ]
+}

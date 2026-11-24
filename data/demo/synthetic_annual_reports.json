@@ -1,0 +1,134 @@
+{
+  "issuer": "Demo Financial Group (fictional)",
+  "reports": [
+    {
+      "id": "demo-financial-group-annual-report-2023",
+      "title": "Demo Financial Group Annual Report 2023 (Synthetic)",
+      "year": 2023,
+      "currency": "HKD",
+      "scale": "million",
+      "source_label": "Synthetic demo; not an actual issuer filing",
+      "source_url": null,
+      "facts": [
+        {
+          "metric": "revenue",
+          "label": "Revenue",
+          "value": "1250.00",
+          "unit": "HKD million",
+          "page": 45,
+          "locator": "Consolidated income statement"
+        },
+        {
+          "metric": "net_profit",
+          "label": "Profit for the year",
+          "value": "100.00",
+          "unit": "HKD million",
+          "page": 45,
+          "locator": "Consolidated income statement"
+        }
+      ],
+      "passages": [
+        {
+          "id": "2023-digital-channels",
+          "section": "Management discussion: digital channels",
+          "page": 18,
+          "text": "The fictional group expanded digital account servicing and consolidated two legacy customer portals during the year."
+        },
+        {
+          "id": "2023-cyber-resilience",
+          "section": "Risk management: technology resilience",
+          "page": 61,
+          "text": "The fictional group conducted a cyber incident response exercise and documented follow-up actions for recovery teams."
+        }
+      ]
+    },
+    {
+      "id": "demo-financial-group-annual-report-2024",
+      "title": "Demo Financial Group Annual Report 2024 (Synthetic)",
+      "year": 2024,
+      "currency": "HKD",
+      "scale": "million",
+      "source_label": "Synthetic demo; not an actual issuer filing",
+      "source_url": null,
+      "facts": [
+        {
+          "metric": "revenue",
+          "label": "Revenue",
+          "value": "1400.00",
+          "unit": "HKD million",
+          "page": 47,
+          "locator": "Consolidated income statement"
+        },
+        {
+          "metric": "net_profit",
+          "label": "Profit for the year",
+          "value": "126.00",
+          "unit": "HKD million",
+          "page": 47,
+          "locator": "Consolidated income statement"
+        }
+      ],
+      "passages": [
+        {
+          "id": "2024-revenue-drivers",
+          "section": "Management discussion: financial performance",
+          "page": 22,
+          "text": "The fictional group attributes revenue growth to higher lending balances and increased fee income from wealth management services."
+        },
+        {
+          "id": "2024-deposit-mix",
+          "section": "Risk management: funding",
+          "page": 83,
+          "text": "The fictional group reports that customer deposits remained its primary funding source and that management monitored concentration by depositor segment."
+        }
+      ]
+    },
+    {
+      "id": "demo-financial-group-annual-report-2025",
+      "title": "Demo Financial Group Annual Report 2025 (Synthetic)",
+      "year": 2025,
+      "currency": "HKD",
+      "scale": "million",
+      "source_label": "Synthetic demo; not an actual issuer filing",
+      "source_url": null,
+      "facts": [
+        {
+          "metric": "revenue",
+          "label": "Revenue",
+          "value": "1470.00",
+          "unit": "HKD million",
+          "page": 49,
+          "locator": "Consolidated income statement"
+        },
+        {
+          "metric": "net_profit",
+          "label": "Profit for the year",
+          "value": "117.60",
+          "unit": "HKD million",
+          "page": 49,
+          "locator": "Consolidated income statement"
+        }
+      ],
+      "passages": [
+        {
+          "id": "2025-revenue-drivers",
+          "section": "Management discussion: financial performance",
+          "page": 24,
+          "text": "The fictional group reports revenue growth from higher lending balances, partly offset by lower treasury income."
+        },
+        {
+          "id": "2025-deposit-mix",
+          "section": "Risk management: funding",
+          "page": 86,
+          "text": "The fictional group's deposits increased, while the share of balances from its largest depositor segment declined."
+        },
+        {
+          "id": "2025-cyber-resilience",
+          "section": "Risk management: technology resilience",
+          "page": 67,
+          "text": "The fictional group refreshed its cyber incident response playbooks and tested recovery procedures with technology service providers."
+        }
+      ]
+    }
+  ]
+}
